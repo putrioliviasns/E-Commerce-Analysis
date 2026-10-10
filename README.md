@@ -1,7 +1,5 @@
 # UCI Online Retail Data Cleaning & Revenue Analysis
 
-> **Project URL:** https://roadmap.sh/projects/online-retail-data-cleaning
-
 ## 📌 Project Overview
 This project focuses on cleaning and analyzing real transaction data from the **UCI Online Retail Dataset** (~500,000+ rows). It addresses common data quality challenges such as missing customer IDs, negative quantities (returns), and zero unit prices, followed by core business metric aggregation.
 
